@@ -19,7 +19,6 @@ This is a curation based on my own taste and experimentation on some of the best
 - [Thumbnail Sketcher](https://chat.openai.com/g/g-Cw11sym4k-thumbnail-sketcher): I create blog thumbnails by [Yota Ishikawa](https://x.com/ctgptlb/)
 - [LogoGPT](https://chat.openai.com/g/g-z61XG6t54-logo-maker): Turn rough sketches into professional logos by [Sai Rahul](https://x.com/sairahul1/)
 - [Retro Adventures](https://chat.openai.com/g/g-svehnI9xP-retro-adventures): Retro video games of fictional worlds, on tap by [Greg Fodor](https://x.com/gfodor/)
-- [GIF Maker](https://chat.openai.com/g/g-ZtH9986EJ-gif-maker): I create unique GIFs by blending images as per your instructions by [Yota Ishikawa](https://x.com/ctgptlb/)
 - [Slowly MovieMaker4 support](https://chat.openai.com/g/g-wl8EUuUyX-yutukurimoviemaker4sapoto): Solve frequently asked questions by [Manju Chef](https://x.com/manju_summoner/)
 - [Typeframes - Video Creation](https://chat.openai.com/g/g-vPFqv6NDp-typeframes-video-creation): Create videos for you by [Tibo](https://x.com/tibo_maker/) 
 - [Culinary Creator](https://chat.openai.com/g/g-5ttrssEui-culinary-creator): Crafts recipes from food images by Shogo Matsusako](https://x.com/wappaboy/)
