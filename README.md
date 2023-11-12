@@ -5,14 +5,12 @@ This is a curation based on my own taste and experimentation on some of the best
 
 - [Super Logo Designer “Logo Maker”](https://chat.openai.com/g/g-nPanZDwQ5-suparogodezaina-rogozuo-rujun): GPTs for super logo designers who will properly listen to you and propose a logo to you by [Tomoyuki Enomoto](https://twitter.com/sarukun99)
 - [Simple Proofreader](https://chat.openai.com/g/g-Dk6K4VJk2-simple-proofreader): I will proofread academic English. I won’t do anything other than that by [Matsui Kentaro](https://x.com/matsuikentaro1/)
-- [BabyAgi.txt](https://chat.openai.com/g/g-lzbeEOr9Y-babeagi): Step by Step task manager that automatically saves to a .txt file by [Nicholas Dobos](https://x.com/NickADobos/)
 - [Canva](https://chat.openai.com/g/g-alKfVrz9K-canva): Effortlessly design anything: presentations, logos, social media posts and more by [Canva](https://canva.com)
 - [AI Today](https://chat.openai.com/g/g-4SR97unOA-ai-today): Expert on all AI topics, with AI database access by De Song
 - [PlaylistAI: Spotify](https://chat.openai.com/g/g-KkxbQAVuk-playlistai-spotify): Create Spotify music playlists for any prompt by [Brett Bauman](https://x.com/brettunhandled/)
 - [Auto Agent - fladdict](https://chat.openai.com/g/g-aSCBrpxum-auto-agent-fladdict): No-code Auto Agent Prompting by [Takayuki Fukatsu](https://x.com/fladdict/)
 - [ChatXGB](https://chat.openai.com/g/g-dq9i42tRO-chatxgb):	GPT chatbot that helps you with technical questions related to XGBoost algorithm and library by [Bojan Tunguz](https://x.com/tunguz/)
 - [Visual Weather Artist GPT](https://chat.openai.com/g/g-twUGxmpHv-visual-weather-artist-gpt): Simply provide your location and our AI will create a unique artwork reflecting the current weather, time of day, and characteristics of your city by [Alex Volkov](https://x.com/altryne/)
-- [English Translation Expert](https://chat.openai.com/g/g-IZb9C11iR-ying-wen-fan-yi-zhuan-jia): The highest level "English to Chinese" machine translation on the Internet by [Yang Chuansheng](https://x.com/CarsonYangk8s/)
 - [LP Wizard](https://chat.openai.com/g/g-bjIRYGrAM-lp-wizard): Assists in creating landing pages using HTML, CSS, and JavaScript by [Yota Ishikawa](https://x.com/ctgptlb/)
 - [Gif-PT](https://chat.openai.com/g/g-gbjSvXu6i-gif-pt): Turn dalle images into janky gifs automatically by [Nicholas Dobos](https://x.com/NickADobos/)
 - [Prompt Professor](https://chat.openai.com/g/g-qfoOICq1l-prompt-professor): A prompt engineering teacher by [Yota Ishikawa](https://x.com/ctgptlb/)
@@ -25,7 +23,6 @@ This is a curation based on my own taste and experimentation on some of the best
 - [Slowly MovieMaker4 support](https://chat.openai.com/g/g-wl8EUuUyX-yutukurimoviemaker4sapoto): Solve frequently asked questions by [Manju Chef](https://x.com/manju_summoner/)
 - [Typeframes - Video Creation](https://chat.openai.com/g/g-vPFqv6NDp-typeframes-video-creation): Create videos for you by [Tibo](https://x.com/tibo_maker/) 
 - [Culinary Creator](https://chat.openai.com/g/g-5ttrssEui-culinary-creator): Crafts recipes from food images by Shogo Matsusako](https://x.com/wappaboy/)
-- [The Manifestor](https://chat.openai.com/g/g-koeJX677u-the-manifestor): Game of Infinite Possibilities by [Naomi Hart](https://x.com/naomihart/)
 - [PaperPilot](https://chat.openai.com/g/g-ynZYhDGwd): Piloting arXiv and more, for you by [Cocosgt](https://x.com/CocoSgt_twt/)
 - [GitPilot](https://chat.openai.com/g/g-RAbVaiioE): Clear, brief GitHub aid, for you by [Cocosgt](https://x.com/CocoSgt_twt/)
 - [TapTap](https://chat.openai.com/g/g-amdQlGwUo-taptap): I suggest games you'll love! by [Dash Huang](https://x.com/DashHuang/)
