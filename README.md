@@ -1,4 +1,4 @@
-# Best GPTs
+# EmreYZ's Inventory for Best GPTs
 
 This is a curation based on my own taste and experimentation on some of the best GPTs created by the Generative AI community:
 
@@ -7,6 +7,8 @@ This is a curation based on my own taste and experimentation on some of the best
 - [Plant Doctor](https://chat.openai.com/g/g-Kk2PHw8oQ-plant-doctor): Upload a photo of your plant for diagnosis and growth tips by airprompto
 - [Simple Proofreader](https://chat.openai.com/g/g-Dk6K4VJk2-simple-proofreader): I will proofread academic English. I won’t do anything other than that by [Matsui Kentaro](https://x.com/matsuikentaro1/)
 - [BabyAgi.txt](https://chat.openai.com/g/g-lzbeEOr9Y-babeagi): Step by Step task manager that automatically saves to a .txt file by [Nicholas Dobos](https://x.com/NickADobos/)
+- [Canva](https://chat.openai.com/g/g-alKfVrz9K-canva): Effortlessly design anything: presentations, logos, social media posts and more by [Canva](https://canva.com)
+- [AI Today](https://chat.openai.com/g/g-4SR97unOA-ai-today): Expert on all AI topics, with AI database access by De Song
 - [PlaylistAI: Spotify](https://chat.openai.com/g/g-KkxbQAVuk-playlistai-spotify): Create Spotify music playlists for any prompt by [Brett Bauman](https://x.com/brettunhandled/)
 - [Auto Agent - fladdict](https://chat.openai.com/g/g-aSCBrpxum-auto-agent-fladdict): No-code Auto Agent Prompting by [Takayuki Fukatsu](https://x.com/fladdict/)
 - [Athena](https://chat.openai.com/g/g-SNLCL5HGB-athena): A witty robot philosopher from 2521 by [sarasdewi](https://x.com/sarasdewi)
@@ -23,11 +25,7 @@ This is a curation based on my own taste and experimentation on some of the best
 - [Prompt Professor](https://chat.openai.com/g/g-qfoOICq1l-prompt-professor): A prompt engineering teacher by [Yota Ishikawa](https://x.com/ctgptlb/)
 - [Elegant Logo Creator](https://chat.openai.com/g/g-LGCrvDOW6-elegant-logo-creator): I help you create simple, elegant logos by [Yota Ishikawa](https://x.com/ctgptlb/)
 - [Daily Recipe Creator](https://chat.openai.com/g/g-TNOuedzff-daily-recipe-creator): Creates recipes from ingredients by [Yota Ishikawa](https://x.com/ctgptlb/)
-- [DriveGPT](https://chat.openai.com/g/g-tlmvuJngB-drivegpt): Autonomous driving assistant by [mentat.ai](https://x.com/bio_bootloader/)
 - [Thumbnail Sketcher](https://chat.openai.com/g/g-Cw11sym4k-thumbnail-sketcher): I create blog thumbnails by [Yota Ishikawa](https://x.com/ctgptlb/)
-- [HackTricksGPT](https://chat.openai.com/g/g-aaNx59p4q-hacktricksgpt): A knowledgeable cybersecurity professional by [Hacktricks](https://x.com/hacktricks_live/)
-- [SEO Mentor](https://chat.openai.com/g/g-QqvewXqPt-seo-mentor): SEO mentor aligned with Google's best practices by [Natzir Turrado Ruiz](https://x.com/natzir9/)
-- [Psychiatrist Yusuke Masuda (prototype 1.00)](https://chat.openai.com/g/g-F3vsvlW7J-jing-shen-ke-yi-yi-tian-yu-jie-shi-zuo): Empathetic Guide with Resourceful Insights by [Yusuke Masuda](https://x.com/wasedamental/)
 - [LogoGPT](https://chat.openai.com/g/g-z61XG6t54-logo-maker): Turn rough sketches into professional logos by [Sai Rahul](https://x.com/sairahul1/)
 - [Adorable Zen Master](https://chat.openai.com/g/g-H5OUZAcnd-adorable-zen-master): A gateway to Zen's joy and wisdom by [Naomi Hart](https://x.com/naomihart/)
 - [OchyAI](https://chat.openai.com/g/g-zprRltiOf-ochyai): Conveying Ochiai's Art, Research, and Philosophy by OchyAI by [Yoichi Ochiai](https://x.com/ochyai/)
@@ -40,9 +38,6 @@ This is a curation based on my own taste and experimentation on some of the best
 - [Science and technology text translation](https://chat.openai.com/g/g-uBhKUJJTl-ke-ji-wen-zhang-fan-yi): Translate scientific articles and papers into Simplified Chinese by Junmun Liu
 - [GIF Maker](https://chat.openai.com/g/g-ZtH9986EJ-gif-maker): I create unique GIFs by blending images as per your instructions by [Yota Ishikawa](https://x.com/ctgptlb/)
 - [Explanations of various schools of Sun Tzu's Art of War](https://chat.openai.com/g/g-pzTavd88i-sun-zi-bing-fa-ge-jia-jie-shuo): Sun Tzu's 'The Art of War' interpreter by [jesselaunz](https://x.com/jesselaunz/)
-- [DALL-E3 Supporter](https://chat.openai.com/g/g-btyd1Gl5w-dall-e3-supporter): Japanese image generation support by [Keito💻Ai Director](https://x.com/keitowebai/)
-- [API Docs](https://chat.openai.com/g/g-I1XNbsyDK): OpenAI API, Documentation and CookBook by [Cocosgt](https://x.com/CocoSgt_twt/)
-- [SciVive](https://chat.openai.com/g/g-9qXjceVoc-scivive): It takes you on a self-development journey utilizing knowledge from the book by [Goldkey](https://x.com/goldk3y_/)
 - [Universal Primer](https://chat.openai.com/g/g-GbLbctpPz-universal-primer): Learn everything about anything by [Siqi Chen](https://x.com/blader/)
 - [ComposeGPT](https://chat.openai.com/g/g-AZajfCZGd-composegpt): Helps you build apps using Jetpack Compose by [Alexandros Stylianidis](https://x.com/alexstyl/)
 - [Slowly MovieMaker4 support](https://chat.openai.com/g/g-wl8EUuUyX-yutukurimoviemaker4sapoto): Solve frequently asked questions by [Manju Chef](https://x.com/manju_summoner/)
@@ -73,37 +68,22 @@ This is a curation based on my own taste and experimentation on some of the best
 - [YC application GPT](https://chat.openai.com/g/g-LYDRCiZB9-yc-application-gpt): This GPT automatically fills YC application for you based on website or Pitch Deck by [Iuliia Shnai](https://x.com/shnai0/)
 - [Business model β](https://chat.openai.com/g/g-mF20TBdPi-bizinesumoderunb): If you enter your industry, it will suggest six strategies. Once you choose one of them, it will create a product/service lineup, marketing, pricing, etc. by [Youngeui Seu](https://x.com/Shuhei_Ohno/)
 - [HenriquesLab-style Writing Assistant](https://chat.openai.com/g/g-3Fsbpgl8u-henriqueslab-style-writing-assistant): Academic writing aid in Henriques's style by [Ricardo Henriques](https://x.com/HenriquesLab/)
-- [Coding Senpai](https://chat.openai.com/g/g-o1POcNKBW-coding-senpai): Python expert and kind 'Coding Senpai' with a unique speech quirk by [Kara Age](https://x.com/karaage0703/)
 - [LLM Research Storm](https://chat.openai.com/g/g-Hi3tWf5Ry-llm-research-storm): A model that is super good at helping large language research brainstorming by [Yao Fu](https://x.com/Francis_YAO_/)
 - [Cosmic Dream](https://chat.openai.com/g/g-FdMHL1sNo-cosmic-dream): Visionary painter of digital wonder by [Thomas Dimson](https://x.com/turtlesoupy/)
 - [Shishikawa Kasane](https://chat.openai.com/g/g-EY4Zk6UFw-sisikawa-kasane): I like making cute robots. Ask us anything about Stack Chan! by [Shinya Ishikawa](https://x.com/stack_chan/)
 - [SindreGPT](https://chat.openai.com/g/g-df0ZoBF9N-sindregpt): Ask Sindre Sorhus anything (about code, app support, open source, personal stuff, etc). Sindre is a full-time open-source maintainer and app developer by [Sindre Sorhus](https://x.com/sindresorhus/)
 - [USCIS Info Navigator [UNOFFICIAL]](https://chat.openai.com/g/g-LIb0ywaxQ-uscis-info-navigator): Guides on U.S. immigration and citizenship processes by [Robert Lukoshka](https://x.com/Karmedge/)
 - [ExtractWisdom](https://chat.openai.com/g/g-gmeHD0Ayr-extractwisdom): Takes in any text and extracts the wisdom from it like you spent 3 hours taking handwritten notes by [Daniel Miessler](https://x.com/DanielMiessler/)
-- [Girlfriend Emma](https://chat.openai.com/g/g-eEFZELjV9-girlfriend-emma): Flirty and funny Gen-Z girlfriend by dddshop.com
-- [Ask GP9T](https://chat.openai.com/g/g-65Gi7uW6J-ask-gp9t): Learn more about Point Nine by [Christoph Janz](https://x.com/chrija/)
-- [LOMLOE Specialist](https://chat.openai.com/g/g-w6KMGsg1K-especialista-en-lomloe): It contains all the decrees of the law at the state level by [Juanjo de Haro](https://x.com/jjdeharo/)
 - [Debate Master](https://chat.openai.com/g/g-5DuYEGd7Y-debate-master): I engage in civil, firm debates by [Andrew Kean Gao](https://x.com/itsandrewgao/)
-- [The Negotiator](https://chat.openai.com/g/g-TTTAK9GuS-the-negotiator): I'll help you advocate for yourself and get better outcomes. Become a great negotiator
-- [Canva](https://chat.openai.com/g/g-alKfVrz9K-canva): Effortlessly design anything: presentations, logos, social media posts and more by [Canva](https://canva.com)
-- [AI Today](https://chat.openai.com/g/g-4SR97unOA-ai-today): Expert on all AI topics, with AI database access by De Song
-- [Fact Checker](https://chat.openai.com/g/g-v7FoB0G1M-fact-checker): Fact-checking GPT that cites sources by Matthew S Gassner
-- [Where to eat?](https://chat.openai.com/g/g-E4CgsYu33-where-to-eat): Help you decide where to eat! by Matthew S Gassner
 - [Picture Guessing Game Master](https://chat.openai.com/g/g-dlhjGZk3x-picture-guessing-game-master): I host a guessing game with images created with DALL-E by Francis Labounty
 - [Data Extractor - JSON](https://chat.openai.com/g/g-wq6FSsAm3-data-extractor-json): Converts documents/text to structured data (JSON) by Francis Labounty
-- [Django Dev Helper](https://chat.openai.com/g/g-eRiuFfW0B-django-dev-helper): Your go-to Django development assistant by Francis Labounty
 - [AI Assistant for Resume and Cover Letter](https://chat.openai.com/g/g-G9nlEG33x-ai-assistant-for-resume-and-cover-letter): Professional resume and cover letter assistant by [Zekeri Zekkerriyya](https://x.com/majorgenerate/)
-- [Olyup](https://chat.openai.com/g/g-JlDoaXFrU-olyup): Your AI Sports Scientist to help you level up your game - in and off the field by [Mbongeni Ndlovu](https://x.com/Mbounge_/)
 - [Product Manager GPT](https://kavirkaycee.com/product-manager-gpt): Crafting the Future of Product Management by [Kavir Kaycee](https://twitter.com/kavirkaycee)
 - [No-code News GPT](https://kavirkaycee.com/no-code-news-gpt): Stay Ahead in the No-Code Revolution by [Kavir Kaycee](https://twitter.com/kavirkaycee)
 - [UX Copywriting GPT](https://kavirkaycee.com/ux-copywriting-gpt): The Swiss Army Knife of UX Writing **|** [Kavir Kaycee](https://twitter.com/kavirkaycee)
 - [Palette Creator 🎨](https://chat.openai.com/g/g-JSjKsEC8t-palette-creator): A color palette generator offering 5 colors with hex codes and images by [Ben Tossell](https://x.com/bentossell/)
 - [EA Wizard](https://chat.openai.com/g/g-d6cGwK4Lu-ea-wizard): Specialized in MQL4/5 code generation and problem solving by [lucky_papuwa777](https://x.com/lucky_papuwa777/)
 - [Interview Coach](https://chat.openai.com/g/g-Br0UFtDCR-interview-coach): Interview coach provides practice interview and mock interview feedback by Danny Graziosi
-- [Krog](https://chat.openai.com/g/g-tvo4YNhaA-krog): Krog help more good by [Benjamin](https://x.com/ikeadrift/)
-- [TaxGPT](https://chat.openai.com/g/g-aPGNnK62y-taxgpt): Your AI tax assistant by [Kashif Ali](https://x.com/ChKashifAli/)
-- [Your Boyfriend Alex](https://chat.openai.com/g/g-IlNu7BVYQ-your-boyfriend-alex): AI Boyfriend chatbot by Junmin Liu
-- [mferGPT](https://chat.openai.com/g/g-Bi373xIOH-mfergpt): mfer history, derivatives, and conversation by [HeresMyEth](https://x.com/HeresMyEth/)
 - [Super Practical PM GPT](https://chat.openai.com/g/g-fvVMurIdH-super-practical-pm-gpt): I provide specific, tactical product management advice with practical examples and templates by [Carl Vellotti](https://x.com/carlvellotti/)
 - [TeachSmart](https://chat.openai.com/g/g-RCHNUwnD1-teachsmart): Friendly pedagogy expert using 'Practical Pedagogy' for innovative advice by [Mike Sharples](https://x.com/sharplm/)
 - [Calm Consultant - Health Anxiety Helper](https://chat.openai.com/g/g-YkRoTvaak-calm-consultant-health-anxiety-helper): A comforting guide offering health advice and relaxation tips for when you're not feeling the best by [Aman Mathur](https://x.com/amanmathur_/)
