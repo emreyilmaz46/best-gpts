@@ -8,10 +8,13 @@ This is a curation based on my own taste and experimentation on some of the best
 - [Learning Ladder](https://chat.openai.com/g/g-Dk6K4VJk2-simple-proofreader)(https://chat.openai.com/g/g-ftpttHQdu-learningladder): A fun game that involves learning a particular subject in gradually deepening levels. Joao Alberto o Lima
 - [Visual Weather Artist GPT](https://chat.openai.com/g/g-twUGxmpHv-visual-weather-artist-gpt): Simply provide your location and our AI will create a unique artwork reflecting the current weather, time of day, and characteristics of your city by [Alex Volkov](https://x.com/altryne/)
 - [Canva](https://chat.openai.com/g/g-alKfVrz9K-canva): Effortlessly design anything: presentations, logos, social media posts and more by [Canva](https://canva.com)
+- [Interview Coach](https://chat.openai.com/g/g-Br0UFtDCR-interview-coach): Interview coach provides practice interview and mock interview feedback by Danny Graziosi
+- [TeachSmart](https://chat.openai.com/g/g-RCHNUwnD1-teachsmart): Friendly pedagogy expert using 'Practical Pedagogy' for innovative advice by [Mike Sharples](https://x.com/sharplm/)
 - [AI Today](https://chat.openai.com/g/g-4SR97unOA-ai-today): Expert on all AI topics, with AI database access by De Song
 - [PlaylistAI: Spotify](https://chat.openai.com/g/g-KkxbQAVuk-playlistai-spotify): Create Spotify music playlists for any prompt by [Brett Bauman](https://x.com/brettunhandled/)
 - [Auto Agent - fladdict](https://chat.openai.com/g/g-aSCBrpxum-auto-agent-fladdict): No-code Auto Agent Prompting by [Takayuki Fukatsu](https://x.com/fladdict/)
-
+- [Emoji Generator](https://chat.openai.com/g/g-wkmOq6AxG-emoji-generator): I turn your text into Emoji by airprompto
+- [StreamlitGPT](https://chat.openai.com/g/g-ucLFVBWHR-streamlitgpt): Code reviews from a Streamlit expert by [Tyler Richards](https://x.com/tylerjrichards/)
 - [LP Wizard](https://chat.openai.com/g/g-bjIRYGrAM-lp-wizard): Assists in creating landing pages using HTML, CSS, and JavaScript by [Yota Ishikawa](https://x.com/ctgptlb/)
 - [Gif-PT](https://chat.openai.com/g/g-gbjSvXu6i-gif-pt): Turn dalle images into janky gifs automatically by [Nicholas Dobos](https://x.com/NickADobos/)
 - [Prompt Professor](https://chat.openai.com/g/g-qfoOICq1l-prompt-professor): A prompt engineering teacher by [Yota Ishikawa](https://x.com/ctgptlb/)
@@ -43,13 +46,10 @@ This is a curation based on my own taste and experimentation on some of the best
 - [AI Assistant for Resume and Cover Letter](https://chat.openai.com/g/g-G9nlEG33x-ai-assistant-for-resume-and-cover-letter): Professional resume and cover letter assistant by [Zekeri Zekkerriyya](https://x.com/majorgenerate/)
 - [Palette Creator 🎨](https://chat.openai.com/g/g-JSjKsEC8t-palette-creator): A color palette generator offering 5 colors with hex codes and images by [Ben Tossell](https://x.com/bentossell/)
 - [EA Wizard](https://chat.openai.com/g/g-d6cGwK4Lu-ea-wizard): Specialized in MQL4/5 code generation and problem solving by [lucky_papuwa777](https://x.com/lucky_papuwa777/)
-- [Interview Coach](https://chat.openai.com/g/g-Br0UFtDCR-interview-coach): Interview coach provides practice interview and mock interview feedback by Danny Graziosi
-- [TeachSmart](https://chat.openai.com/g/g-RCHNUwnD1-teachsmart): Friendly pedagogy expert using 'Practical Pedagogy' for innovative advice by [Mike Sharples](https://x.com/sharplm/)
-- [StreamlitGPT](https://chat.openai.com/g/g-ucLFVBWHR-streamlitgpt): Code reviews from a Streamlit expert by [Tyler Richards](https://x.com/tylerjrichards/)
 - [ImageConverter](https://chat.openai.com/g/g-Rn20pc9HE-imageconverter): Visual and friendly guide for image processing by Junmin Liu
 - [Scruffy's Car Repair Advice](https://chat.openai.com/g/g-69AuJhsig-scruffy-s-car-repair-advice): Checks car repair quotes and guides cost-saving decisions by [Zach Nagengast](https://x.com/zachnagengast/)
 - [PlatoAI](https://chat.openai.com/g/g-Vw7qEX384-platoai): You can't talk to Plato, but you can talk to PlatoAI by [Mushtaq Bilal](https://x.com/MushtaqBilalPhD/)
 - [An Emoji GPT](https://chat.openai.com/g/g-mvOpDRXMz-an-emoji-gpt): The knowledge of a hundred generations at my fingertips and all I do is pick the perfect emoji for every situation by James Donovan
-- [Emoji Generator](https://chat.openai.com/g/g-wkmOq6AxG-emoji-generator): I turn your text into Emoji by airprompto
+
 
 
