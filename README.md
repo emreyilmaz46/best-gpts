@@ -40,7 +40,6 @@ This is a curation based on my own taste and experimentation on some of the best
 - [The UX Sage](https://chat.openai.com/g/g-242OjQh2w-the-ux-sage): Your go-to mentor for UX wisdom and growth by [Sahil Pandita](https://x.com/Sahilxdesign/)
 - [Business model β](https://chat.openai.com/g/g-mF20TBdPi-bizinesumoderunb): If you enter your industry, it will suggest six strategies. Once you choose one of them, it will create a product/service lineup, marketing, pricing, etc. by [Youngeui Seu](https://x.com/Shuhei_Ohno/)
 - [HenriquesLab-style Writing Assistant](https://chat.openai.com/g/g-3Fsbpgl8u-henriqueslab-style-writing-assistant): Academic writing aid in Henriques's style by [Ricardo Henriques](https://x.com/HenriquesLab/)
-- [LLM Research Storm](https://chat.openai.com/g/g-Hi3tWf5Ry-llm-research-storm): A model that is super good at helping large language research brainstorming by [Yao Fu](https://x.com/Francis_YAO_/)
 - [Shishikawa Kasane](https://chat.openai.com/g/g-EY4Zk6UFw-sisikawa-kasane): I like making cute robots. Ask us anything about Stack Chan! by [Shinya Ishikawa](https://x.com/stack_chan/)
 - [Debate Master](https://chat.openai.com/g/g-5DuYEGd7Y-debate-master): I engage in civil, firm debates by [Andrew Kean Gao](https://x.com/itsandrewgao/)
 - [Picture Guessing Game Master](https://chat.openai.com/g/g-dlhjGZk3x-picture-guessing-game-master): I host a guessing game with images created with DALL-E by Francis Labounty
