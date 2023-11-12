@@ -4,7 +4,6 @@ This is a curation based on my own taste and experimentation on some of the best
 
 
 - [Super Logo Designer “Logo Maker”](https://chat.openai.com/g/g-nPanZDwQ5-suparogodezaina-rogozuo-rujun): GPTs for super logo designers who will properly listen to you and propose a logo to you by [Tomoyuki Enomoto](https://twitter.com/sarukun99)
-- [Plant Doctor](https://chat.openai.com/g/g-Kk2PHw8oQ-plant-doctor): Upload a photo of your plant for diagnosis and growth tips by airprompto
 - [Simple Proofreader](https://chat.openai.com/g/g-Dk6K4VJk2-simple-proofreader): I will proofread academic English. I won’t do anything other than that by [Matsui Kentaro](https://x.com/matsuikentaro1/)
 - [BabyAgi.txt](https://chat.openai.com/g/g-lzbeEOr9Y-babeagi): Step by Step task manager that automatically saves to a .txt file by [Nicholas Dobos](https://x.com/NickADobos/)
 - [Canva](https://chat.openai.com/g/g-alKfVrz9K-canva): Effortlessly design anything: presentations, logos, social media posts and more by [Canva](https://canva.com)
