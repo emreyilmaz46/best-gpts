@@ -52,7 +52,6 @@ This is a curation based on my own taste and experimentation on some of the best
 - [EA Wizard](https://chat.openai.com/g/g-d6cGwK4Lu-ea-wizard): Specialized in MQL4/5 code generation and problem solving by [lucky_papuwa777](https://x.com/lucky_papuwa777/)
 - [Interview Coach](https://chat.openai.com/g/g-Br0UFtDCR-interview-coach): Interview coach provides practice interview and mock interview feedback by Danny Graziosi
 - [TeachSmart](https://chat.openai.com/g/g-RCHNUwnD1-teachsmart): Friendly pedagogy expert using 'Practical Pedagogy' for innovative advice by [Mike Sharples](https://x.com/sharplm/)
-- [Calm Consultant - Health Anxiety Helper](https://chat.openai.com/g/g-YkRoTvaak-calm-consultant-health-anxiety-helper): A comforting guide offering health advice and relaxation tips for when you're not feeling the best by [Aman Mathur](https://x.com/amanmathur_/)
 - [StreamlitGPT](https://chat.openai.com/g/g-ucLFVBWHR-streamlitgpt): Code reviews from a Streamlit expert by [Tyler Richards](https://x.com/tylerjrichards/)
 - [ImageConverter](https://chat.openai.com/g/g-Rn20pc9HE-imageconverter): Visual and friendly guide for image processing by Junmin Liu
 - [Scruffy's Car Repair Advice](https://chat.openai.com/g/g-69AuJhsig-scruffy-s-car-repair-advice): Checks car repair quotes and guides cost-saving decisions by [Zach Nagengast](https://x.com/zachnagengast/)
