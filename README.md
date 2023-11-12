@@ -1,9 +1,11 @@
 # Best GPTs
 
-This is a curation based on my own taste and experimentation on some of the best GPTs created by Generative AI community:
+This is a curation based on my own taste and experimentation on some of the best GPTs created by the Generative AI community:
 
 
 - [Super Logo Designer “Logo Maker”](https://chat.openai.com/g/g-nPanZDwQ5-suparogodezaina-rogozuo-rujun): GPTs for super logo designers who will properly listen to you and propose a logo to you by [Tomoyuki Enomoto](https://twitter.com/sarukun99)
+- [Plant Doctor](https://chat.openai.com/g/g-Kk2PHw8oQ-plant-doctor): Upload a photo of your plant for diagnosis and growth tips by airprompto
+- [Simple Proofreader](https://chat.openai.com/g/g-Dk6K4VJk2-simple-proofreader): I will proofread academic English. I won’t do anything other than that by [Matsui Kentaro](https://x.com/matsuikentaro1/)
 - [BabyAgi.txt](https://chat.openai.com/g/g-lzbeEOr9Y-babeagi): Step by Step task manager that automatically saves to a .txt file by [Nicholas Dobos](https://x.com/NickADobos/)
 - [PlaylistAI: Spotify](https://chat.openai.com/g/g-KkxbQAVuk-playlistai-spotify): Create Spotify music playlists for any prompt by [Brett Bauman](https://x.com/brettunhandled/)
 - [Auto Agent - fladdict](https://chat.openai.com/g/g-aSCBrpxum-auto-agent-fladdict): No-code Auto Agent Prompting by [Takayuki Fukatsu](https://x.com/fladdict/)
@@ -48,19 +50,14 @@ This is a curation based on my own taste and experimentation on some of the best
 - [Typeframes - Video Creation](https://chat.openai.com/g/g-vPFqv6NDp-typeframes-video-creation): Create videos for you by [Tibo](https://x.com/tibo_maker/) 
 - [Sui Move GPT](https://chat.openai.com/g/g-NWwAJOzzz-sui-move-gpt): This is a specialized GPT model developed with insights from Sui documentation, GitHub repositories, and the Move language books by [Sam Blackshear](https://x.com/b1ackd0g/)
 - [Culinary Creator](https://chat.openai.com/g/g-5ttrssEui-culinary-creator): Crafts recipes from food images by Shogo Matsusako](https://x.com/wappaboy/)
-- [Create a sea turtle soup problem](https://chat.openai.com/g/g-lS2TTQQFx-umigamenosupunowen-ti-tukuru): Ask them to create a problem, It might be a good idea to give them a theme by [reverinu_vtuber](https://x.com/reverinu_vtuber/)
 - [The Manifestor](https://chat.openai.com/g/g-koeJX677u-the-manifestor): Game of Infinite Possibilities by [Naomi Hart](https://x.com/naomihart/)
 - [GPT to Ban GPT](https://chat.openai.com/g/g-612TDn3u9-gpt-to-ban-gpt): Need to ban chatGPT in your organization? by [Ethan Mollick](https://x.com/emollick/)
 - [PaperPilot](https://chat.openai.com/g/g-ynZYhDGwd): Piloting arXiv and more, for you by [Cocosgt](https://x.com/CocoSgt_twt/)
 - [GitPilot](https://chat.openai.com/g/g-RAbVaiioE): Clear, brief GitHub aid, for you by [Cocosgt](https://x.com/CocoSgt_twt/)
 - [TapTap](https://chat.openai.com/g/g-amdQlGwUo-taptap): I suggest games you'll love! by [Dash Huang](https://x.com/DashHuang/)
-- [Whitehead's Philosophy of Organism](https://chat.openai.com/g/g-uXLrsabXQ-whitehead-s-process-and-reality): An AI guide through Whitehead's philosophical works by [Matthew Segall](https://x.com/ThouArtThat/)
-- [Don't want to go upstairs](https://chat.openai.com/g/g-D2j1WBTkN-bu-xiang-shang-lou): A middle-aged man earnestly justifying a purchase to his wife by [Zhang Tao](https://x.com/hidecloud/)
-- [Simple Proofreader](https://chat.openai.com/g/g-Dk6K4VJk2-simple-proofreader): I will proofread academic English. I won’t do anything other than that by [Matsui Kentaro](https://x.com/matsuikentaro1/)
 - [CityWeatherArt](https://chat.openai.com/g/g-aTdwKcgsE-postercraft): Generate 3D city weather posters by [Xiǎo Hù](https://x.com/xiaohuggg/)
 - [Large text file splitter program](https://chat.openai.com/g/g-SBGMg6HzJ-da-wen-ben-wen-jian-fen-ge-cheng-xu): Accurately split files into PDF by [Cosy Touch Limited](https://x.com/jesselaunz/)
 - [YT transcriber](https://chat.openai.com/g/g-Xt0xteYE8-yt-transcriber): this transcribes a YT video from a single id by [swyx](https://x.com/swyx/)
-- [Richard Heart](https://chat.openai.com/g/g-e95Yf6Dkx-richard-heart): Advice based on Richard Heart's teachings from his book (Scivive) and Youtube channel by [Mike Bardi](https://x.com/MikeBardi/)
 - [RubyGPT](https://chat.openai.com/g/g-ASMq03VdH-rubygpt): Your Ruby coding assistant by [Niklas Haeusele](https://x.com/ModernRails/)
 - [Color Psychology](https://chat.openai.com/g/g-msLVpHkv3-color-psychology): This AI will provide insights into the psychology and symbolism associated with colors by [Onur Ozcan](https://x.com/oozn/)
 - [Berduck](https://chat.openai.com/g/g-EcaBnZpHT-berduck): hepful rubba duck friend by [deepfates](https://x.com/deepfates/)
@@ -131,7 +128,6 @@ This is a curation based on my own taste and experimentation on some of the best
 - [SOL Code Guru](https://chat.openai.com/g/g-s8kgfZ9z0-sol-code-guru): Friendly Solana tech expert by [Alex](https://x.com/AlexBSLCo/)
 - [PlatoAI](https://chat.openai.com/g/g-Vw7qEX384-platoai): You can't talk to Plato, but you can talk to PlatoAI by [Mushtaq Bilal](https://x.com/MushtaqBilalPhD/)
 - [An Emoji GPT](https://chat.openai.com/g/g-mvOpDRXMz-an-emoji-gpt): The knowledge of a hundred generations at my fingertips and all I do is pick the perfect emoji for every situation by James Donovan
-- [Plant Doctor](https://chat.openai.com/g/g-Kk2PHw8oQ-plant-doctor): Upload a photo of your plant for diagnosis and growth tips by airprompto
 - [Emoji Generator](https://chat.openai.com/g/g-wkmOq6AxG-emoji-generator): I turn your text into Emoji by airprompto
 
 
