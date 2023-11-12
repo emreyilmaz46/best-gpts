@@ -1,9 +1,8 @@
 # Best GPTs
 
-Awesome GPTs is a collection of all GPTs created by the community.
+This is a curation based on my own taste and experimentation on some of the best GPTs created by Generative AI community:
 
 
-- [Designer GPT](https://chat.openai.com/g/g-2Eo3NxuS7-designergpt): Creates and hosts beautiful websites by [Pietro Schirano](https://x.com/skirano/)
 - [Super Logo Designer “Logo Maker”](https://chat.openai.com/g/g-nPanZDwQ5-suparogodezaina-rogozuo-rujun): GPTs for super logo designers who will properly listen to you and propose a logo to you by [Tomoyuki Enomoto](https://twitter.com/sarukun99)
 - [NomadGPT](https://chat.openai.com/g/g-0k9rvxdJn-nomadgpt): NomadGPT helps you become a digital nomad and find you the best places in the world to live and work remotely by [levelsio](https://twitter.com/levelsio/)
 - [BabyAgi.txt](https://chat.openai.com/g/g-lzbeEOr9Y-babeagi): Step by Step task manager that automatically saves to a .txt file by [Nicholas Dobos](https://x.com/NickADobos/)
